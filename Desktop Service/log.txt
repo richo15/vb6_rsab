@@ -1,0 +1,1816 @@
+2017-08-02 15:18:17, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:18:30, 0, 172.16.16.14, 2, 0, GET, /
+2017-08-02 15:18:30, 0, 172.16.16.14, 2, 0, GET, /spider.jpg
+2017-08-02 15:18:30, 0, 172.16.16.14, 2, 0, GET, /favicon.ico
+2017-08-02 15:19:19, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:19:26, 0, 172.16.16.14, 2, 0, GET, /
+2017-08-02 15:22:06, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:22:10, 0, 172.16.16.14, 2, 0, GET, /
+2017-08-02 15:23:08, 1, 172.16.16.35, 2, 0, GET, /
+2017-08-02 15:23:08, 1, 172.16.16.35, 2, 0, GET, /spider.jpg
+2017-08-02 15:23:09, 1, 172.16.16.35, 2, 0, GET, /favicon.ico
+2017-08-02 15:24:57, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:24:59, 0, 172.16.16.35, 2, 0, GET, /
+2017-08-02 15:24:59, -1, 172.16.16.35, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 15:25:01, 0, 172.16.16.14, 2, 0, GET, /
+2017-08-02 15:26:31, 1, 172.16.16.14, 2, 0, GET, /
+2017-08-02 15:26:45, 0, 172.16.16.14, 2, 0, GET, /test
+2017-08-02 15:27:05, 2, 172.16.16.35, 2, 0, GET, /formget.htm
+2017-08-02 15:27:14, 2, 172.16.16.35, 2, 0, GET, /
+2017-08-02 15:27:36, 3, 172.16.16.35, 2, 0, GET, /DynamicRequest
+2017-08-02 15:28:59, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 15:42:35, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:42:45, 0, 172.16.16.14, 2, 0, GET, /
+2017-08-02 15:44:01, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:44:09, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:44:41, 1, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:45:36, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:48:01, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:48:08, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:48:34, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 15:48:34, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 15:48:34, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 15:48:34, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 15:48:34, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 15:50:02, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:50:04, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:50:37, -1, , 3, 0, , Gossamer service started
+Error 91 (&H0000005B) Object variable or With block variable not set
+2017-08-02 15:50:39, 0, 127.0.0.1, 2, 1, GET, /query?
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 15:51:05, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:51:21, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:51:23, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:51:56, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:52:21, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:52:40, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:53:02, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:53:43, 0, 127.0.0.1, 2, 1, GET, /query?
+2017-08-02 15:54:49, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:54:51, 0, 127.0.0.1, 2, 1, GET, /query?test
+2017-08-02 15:55:21, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:55:24, 0, 127.0.0.1, 2, 1, GET, /query?test
+2017-08-02 15:55:39, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:55:41, 0, 127.0.0.1, 2, 1, GET, /query?test
+2017-08-02 15:56:02, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:56:06, 0, 127.0.0.1, 2, 1, GET, /query?test
+2017-08-02 15:58:59, -1, , 3, 0, , Gossamer service started
+Error 91 (&H0000005B) Object variable or With block variable not set
+2017-08-02 15:59:02, 0, 127.0.0.1, 2, 1, GET, /query?test
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 15:59:11, 0, 127.0.0.1, 2, 1, GET, /query?RIKO
+2017-08-02 15:59:33, -1, , 3, 0, , Gossamer service started
+2017-08-02 15:59:36, 0, 127.0.0.1, 2, 1, GET, /query?RIKO
+2017-08-02 16:00:40, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:00:43, 0, 127.0.0.1, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:01:33, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:01:39, 0, 127.0.0.1, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:02:18, 0, 127.0.0.1, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:04:09, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:10:15, 0, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:10:41, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:11:29, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:13:51, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:14:30, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:14:57, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:15:00, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:15:01, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:15:02, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:15:03, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:16:13, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:20:14, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:20:16, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:21:26, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:21:29, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:21:42, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:23:39, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:23:42, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:24:42, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:25:01, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:26:37, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:27:19, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:27:48, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:30:07, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:30:11, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:30:48, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 16:30:53, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 16:37:54, -1, , 3, 0, , Gossamer service started
+2017-08-02 16:38:31, 0, 172.16.16.14, 2, -1, OPTIONS, /query/?cetak=StrukAntrian
+2017-08-02 16:38:41, 0, 172.16.16.14, 2, -1, OPTIONS, /query/?cetak=StrukAntrian
+2017-08-02 17:10:36, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 17:10:57, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:10:59, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 17:23:36, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:23:40, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+Error 91 (&H0000005B) Object variable or With block variable not set
+2017-08-02 17:23:45, 0, 172.16.16.14, 2, 1, GET, /query?cetakaasdas
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 17:23:47, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 17:23:54, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 17:24:03, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:10, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:24:12, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:14, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:15, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:15, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:16, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:16, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+Error 91 (&H0000005B) Object variable or With block variable not set
+2017-08-02 17:24:17, 0, 172.16.16.14, 2, 1, GET, /query?cetakasdsd
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 17:24:20, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+Error 3705 (&H00000E79) Operation is not allowed when the object is open.
+2017-08-02 17:24:20, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:53, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:24:56, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:24:57, 0, 172.16.16.14, 2, 1, GET, /query?cetakasdasd
+2017-08-02 17:24:59, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:25:00, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:25:01, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:25:02, 0, 172.16.16.14, 2, 1, GET, /query?cetakasdas
+2017-08-02 17:25:02, 0, 172.16.16.14, 2, 1, GET, /query?cetakasdas
+2017-08-02 17:25:04, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:26:27, 1, 172.16.16.55, 2, 0, GET, /
+2017-08-02 17:26:36, 1, 172.16.16.55, 2, 1, GET, /query?cetak
+2017-08-02 17:26:42, 1, 172.16.16.55, 2, 1, GET, /query?cetakff
+2017-08-02 17:27:07, 2, 172.16.16.14, 2, -1, OPTIONS, /query/?cetak=StrukAntrian
+2017-08-02 17:28:41, 2, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 17:28:46, 2, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 17:29:09, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 17:30:46, 0, 172.16.16.14, 2, 1, GET, /query?cetak=StrukAntrian
+2017-08-02 17:35:39, -1, , 3, 0, , Gossamer service started
+Error 13 (&H0000000D) Type mismatch
+2017-08-02 17:35:41, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+Error 13 (&H0000000D) Type mismatch
+2017-08-02 17:37:24, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:43:24, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:43:59, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:44:01, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:44:46, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:45:13, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 17:47:06, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:47:09, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:48:19, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:49:16, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:49:19, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:52:07, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:52:09, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:52:44, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:54:03, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:54:35, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:56:33, -1, , 3, 0, , Gossamer service started
+2017-08-02 17:56:35, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 17:56:59, 1, 172.16.16.14, 2, -1, OPTIONS, /query?cetak=StrukAntrian
+2017-08-02 18:00:26, 1, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 18:29:46, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:29:51, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 18:30:01, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:30:05, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 18:30:20, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 18:30:30, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 18:31:09, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 18:53:00, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:53:02, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 18:53:04, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:53:06, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 18:57:03, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:57:07, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:57:08, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 18:58:44, -1, , 3, 0, , Gossamer service started
+2017-08-02 18:58:46, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:05:49, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:06:09, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:06:11, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:06:22, 1, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 19:06:37, 1, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 19:06:45, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:06:47, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:06:50, 0, 172.16.16.14, 2, 1, GET, /query?cetak
+2017-08-02 19:07:40, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:08:01, 1, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:09:24, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:09:28, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:11:55, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:12:09, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:12:39, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:12:42, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:14:20, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:15:58, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:16:00, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:18:29, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:18:34, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:18:36, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:18:39, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:18:48, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:18:51, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:20:30, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:21:12, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:21:15, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:21:47, 1, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:22:53, 2, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak
+Error 482 (&H000001E2) Printer error
+2017-08-02 19:23:13, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+Error 482 (&H000001E2) Printer error
+2017-08-02 19:23:29, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:24:00, 2, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:30:48, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:30:51, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:31:02, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:31:14, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:31:33, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:32:57, -1, , 3, 0, , Gossamer service started
+Error 482 (&H000001E2) Printer error
+2017-08-02 19:33:01, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:35:56, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:35:57, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:36:39, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:36:40, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:37:33, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:37:34, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:38:38, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:38:39, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:41:54, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:43:05, -1, , 3, 0, , Gossamer service started
+Error 482 (&H000001E2) Printer error
+2017-08-02 19:43:08, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:44:09, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:44:21, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 19:46:09, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:47:24, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:47:32, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:55:19, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:55:21, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:58:17, -1, , 3, 0, , Gossamer service started
+Error 482 (&H000001E2) Printer error
+2017-08-02 19:58:19, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 19:59:45, -1, , 3, 0, , Gossamer service started
+2017-08-02 19:59:50, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 20:00:46, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:01:12, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:01:14, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak
+2017-08-02 20:10:53, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:11:16, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:13:39, -1, , 3, 0, , Gossamer service started
+Error -2147467259 (&H80004005) ERROR: operator does not exist: character varying = integer;
+Error while executing the query
+2017-08-02 20:13:41, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815d99120f015d9c0208d8030e
+Error 482 (&H000001E2) Printer error
+2017-08-02 20:15:13, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak=2&norec=ff8081815d99120f015d9c0208d8030e
+2017-08-02 20:16:13, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815d9810c2015d984db6790010
+2017-08-02 20:18:41, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:18:43, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815d9810c2015d984db6790010
+2017-08-02 20:19:31, 0, 172.16.16.14, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815d9810c2015d984db6790010
+2017-08-02 20:20:17, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:20:40, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815d9810c2015d984db6790010
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-02 20:27:48, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da3215925001b
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-02 20:28:18, 2, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da3215925001b
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-02 20:29:06, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da322b47d001c
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-02 20:30:41, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da3241055001e
+2017-08-02 20:30:47, 1, 172.16.16.14, 2, 1, GET, /queryregistrasi-pelayanan/slipAntrian?&noRec=40288c835d9c46eb015da3241060001f&X-AUTH-TOKEN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwYXNpZW4ifQ.J17jMlvcnsoIRtb7oL3caAxdXNF2ckkEnfFk8vpA9mOOdCWJ5vWNTieS2JUDMqEMHzqYc-sRo0FS5fkGJ97MpQ
+2017-08-02 20:36:24, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:36:42, 0, 172.16.16.14, 2, 1, GET, /queryregistrasi-pelayanan/slipAntrian?&noRec=40288c835d9c46eb015da3241060001f&X-AUTH-TOKEN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwYXNpZW4ifQ.J17jMlvcnsoIRtb7oL3caAxdXNF2ckkEnfFk8vpA9mOOdCWJ5vWNTieS2JUDMqEMHzqYc-sRo0FS5fkGJ97MpQ
+2017-08-02 20:36:59, 1, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da329e0c00020
+2017-08-02 20:37:40, 1, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da32a816a0021
+2017-08-02 20:38:00, 1, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da32ada980022
+2017-08-02 20:38:13, 1, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da32b0e800023
+2017-08-02 20:38:26, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 20:44:44, -1, , 3, 0, , Gossamer service started
+2017-08-02 20:44:46, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 21:25:11, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:25:17, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=40288c835d9c46eb015da3215925001b
+2017-08-02 21:25:39, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 21:26:06, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:46:06, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:46:25, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:48:24, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:50:09, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:50:13, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:50:56, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 21:51:19, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:53:15, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:54:52, -1, , 3, 0, , Gossamer service started
+2017-08-02 21:54:56, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 21:55:31, 2, 172.16.16.14, 2, 0, GET, /
+2017-08-02 21:55:31, 2, 172.16.16.14, 2, 0, GET, /spider.jpg
+2017-08-02 21:55:31, 2, 172.16.16.14, 2, 0, GET, /favicon.ico
+2017-08-02 21:58:14, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:00:56, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:00:58, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:01:30, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:01:50, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:01:54, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:02:18, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:02:21, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:03:03, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:03:31, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:03:56, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:04:09, -1, 127.0.0.1, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:10:07, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:11:16, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 22:12:39, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:13:46, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-02 22:14:08, 1, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686848002-93
+2017-08-02 22:16:28, 2, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686872003-94
+2017-08-02 22:16:28, 3, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686898002-95
+2017-08-02 22:16:28, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686925003-96
+2017-08-02 22:16:28, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686952003-97
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686979004-98
+2017-08-02 22:16:28, -1, 172.16.16.14, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:16:28, -1, 172.16.16.14, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:16:28, -1, 172.16.16.14, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:16:28, -1, 172.16.16.14, 4, 10035, , Socket is non-blocking and the specified operation will block
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988167-99
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988182-100
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988196-101
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988209-102
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988222-103
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988242-104
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988256-105
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988275-106
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988288-107
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988302-108
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988315-109
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988327-110
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988340-111
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988354-112
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988368-113
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988382-114
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988394-115
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988407-116
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988421-117
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988435-118
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988449-119
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988469-120
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988484-121
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988497-122
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988511-123
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988524-124
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988539-125
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988552-126
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988567-127
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988580-128
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988594-129
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988608-130
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988622-131
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988637-132
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988651-133
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988666-134
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988680-135
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988693-136
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988707-137
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988721-138
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988735-139
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988750-140
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988763-141
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988778-142
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988792-143
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988806-144
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988820-145
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988835-146
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988850-147
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988862-148
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988880-149
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988896-150
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988913-151
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988928-152
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988942-153
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988956-154
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988970-155
+2017-08-02 22:16:28, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988985-156
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686988997-157
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989014-158
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989030-159
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989044-160
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989057-161
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989072-162
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989086-163
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989100-164
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989113-165
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989127-166
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989141-167
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989156-168
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989169-169
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989185-170
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989198-171
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989212-172
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989227-173
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989242-174
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989258-175
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989272-176
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989286-177
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989299-178
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989313-179
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989328-180
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989342-181
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989356-182
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989371-183
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989386-184
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989400-185
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989413-186
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989429-187
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989446-188
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989459-189
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989474-190
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989488-191
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989502-192
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989515-193
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989529-194
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989544-195
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989557-196
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989571-197
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989585-198
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989599-199
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989612-200
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989626-201
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989640-202
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989654-203
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989668-204
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989681-205
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989695-206
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989709-207
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989723-208
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989737-209
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989751-210
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989764-211
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989778-212
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989791-213
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989806-214
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989820-215
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989833-216
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989847-217
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989861-218
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989876-219
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989889-220
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989903-221
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989917-222
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989930-223
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989944-224
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989959-225
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989973-226
+2017-08-02 22:16:29, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686989987-227
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990001-228
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990013-229
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990027-230
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990041-231
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990054-232
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990068-233
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990083-234
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990098-235
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990121-236
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990134-237
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990147-238
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990162-239
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990177-240
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990190-241
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990204-242
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990218-243
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990231-244
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990245-245
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990259-246
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990275-247
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990289-248
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990303-249
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990317-250
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990330-251
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990344-252
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990358-253
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990372-254
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990386-255
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990399-256
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990413-257
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990428-258
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990442-259
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990474-260
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990488-261
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990502-262
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990517-263
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990531-264
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990545-265
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990559-266
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990574-267
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990588-268
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990602-269
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990617-270
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990631-271
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990645-272
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990660-273
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990678-274
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990692-275
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990708-276
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990722-277
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990736-278
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990750-279
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990764-280
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990779-281
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990793-282
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990808-283
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990823-284
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990837-285
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990851-286
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990865-287
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990879-288
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990893-289
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990912-290
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990927-291
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990940-292
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990954-293
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990968-294
+2017-08-02 22:16:30, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990981-295
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686990996-296
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991056-297
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991070-298
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991084-299
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991102-300
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991118-301
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991134-302
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991150-303
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991165-304
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991180-305
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991195-306
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991210-307
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991225-308
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991239-309
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991254-310
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991268-311
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991284-312
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991299-313
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991314-314
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991329-315
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991343-316
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991357-317
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991371-318
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991386-319
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991402-320
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991416-321
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991431-322
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991446-323
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991461-324
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991487-325
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991502-326
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991517-327
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991531-328
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991547-329
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991561-330
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991576-331
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991591-332
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991605-333
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991620-334
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991635-335
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991651-336
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991667-337
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991682-338
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991698-339
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991713-340
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991728-341
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991743-342
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991757-343
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991772-344
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991787-345
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991803-346
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991818-347
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991834-348
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991849-349
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991864-350
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991879-351
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991894-352
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991908-353
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991922-354
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991936-355
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991951-356
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991968-357
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991982-358
+2017-08-02 22:16:31, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686991997-359
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992012-360
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992026-361
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992040-362
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992054-363
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992069-364
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992087-365
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992103-366
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992119-367
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992134-368
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992148-369
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992163-370
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992178-371
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992193-372
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992207-373
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992222-374
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992236-375
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992252-376
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992268-377
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992319-378
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992333-379
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992349-380
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992364-381
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992379-382
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992394-383
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992410-384
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992426-385
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992441-386
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992457-387
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992473-388
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992487-389
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992503-390
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992520-391
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992536-392
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992553-393
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992569-394
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992584-395
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992598-396
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992614-397
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992630-398
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992645-399
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992661-400
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992676-401
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992691-402
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992706-403
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992722-404
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992738-405
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992753-406
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992769-407
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992784-408
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992802-409
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992818-410
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992832-411
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992847-412
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992862-413
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992876-414
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992891-415
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992905-416
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992921-417
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992937-418
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992951-419
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992968-420
+2017-08-02 22:16:32, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686992987-421
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993002-422
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993017-423
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993032-424
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993047-425
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993062-426
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993076-427
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993091-428
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993105-429
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993120-430
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993136-431
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993151-432
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993165-433
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993180-434
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993195-435
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993209-436
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993224-437
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993239-438
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993253-439
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993269-440
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993285-441
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993299-442
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993313-443
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993328-444
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993344-445
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993360-446
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993373-447
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993388-448
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993403-449
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993417-450
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993432-451
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993447-452
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993462-453
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993477-454
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993491-455
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993505-456
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993520-457
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993535-458
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993549-459
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993564-460
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993578-461
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993593-462
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993607-463
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993621-464
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993636-465
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993650-466
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993665-467
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993680-468
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993694-469
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993711-470
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993727-471
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993747-472
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993766-473
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993787-474
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993802-475
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993816-476
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993831-477
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993847-478
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993861-479
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993877-480
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993891-481
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993906-482
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993920-483
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993935-484
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993950-485
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993965-486
+2017-08-02 22:16:33, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993980-487
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686993995-488
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994004-489
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994611-490
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994611-491
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994649-492
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994649-493
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994687-494
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994688-495
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994726-496
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994738-497
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994749-498
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994787-499
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994788-500
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994826-501
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994827-502
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994863-503
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994864-504
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994899-505
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994902-506
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994939-507
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994940-508
+2017-08-02 22:16:34, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994978-509
+2017-08-02 22:16:34, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686994979-510
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995015-511
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995016-512
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995054-513
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995055-514
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995093-515
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995094-516
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995131-517
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995132-518
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995181-519
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995182-520
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995220-521
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995221-522
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995260-523
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995260-524
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995298-525
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995303-526
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995337-527
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995338-528
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995376-529
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995377-530
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995413-531
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995414-532
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995454-533
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995454-534
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995492-535
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995492-536
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995530-537
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995530-538
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995572-539
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995572-540
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995610-541
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995610-542
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995646-543
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995647-544
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995685-545
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995686-546
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995727-547
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995727-548
+2017-08-02 22:16:35, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995776-549
+2017-08-02 22:16:35, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995777-550
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687000003-553
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995815-552
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501686995814-551
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011311-554
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011333-555
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011339-556
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011370-557
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011385-558
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011400-559
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011416-560
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011430-561
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011445-562
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011460-563
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011476-564
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011490-565
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011505-566
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011519-567
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011534-568
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011549-569
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011564-570
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011580-571
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011595-572
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011611-573
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011626-574
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011640-575
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011654-576
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011669-577
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011685-578
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011699-579
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011714-580
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011730-581
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011744-582
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011759-583
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011774-584
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011789-585
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011803-586
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011819-587
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011834-588
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011850-589
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011867-590
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011879-591
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011894-592
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011911-593
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011923-594
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011936-595
+2017-08-02 22:16:51, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011951-596
+2017-08-02 22:16:51, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011967-597
+2017-08-02 22:16:51, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011979-598
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687011995-599
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012007-600
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012024-601
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012044-602
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012046-603
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012073-604
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012087-605
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012121-606
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012122-607
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012150-608
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012166-609
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012179-610
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012196-611
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012207-612
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012222-613
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012237-614
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012251-615
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012270-616
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012283-617
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012296-618
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012313-619
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012323-620
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012336-621
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012353-622
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012369-623
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012380-624
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012396-625
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012410-626
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012424-627
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012438-628
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012453-629
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012469-630
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012482-631
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012495-632
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012510-633
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012524-634
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012540-635
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012554-636
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012569-637
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012586-638
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012598-639
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012613-640
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012630-641
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012641-642
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012654-643
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012669-644
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012684-645
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012699-646
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012714-647
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012729-648
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012745-649
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012783-650
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012783-651
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012904-652
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012921-653
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012936-654
+2017-08-02 22:16:52, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012952-655
+2017-08-02 22:16:52, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012968-656
+2017-08-02 22:16:52, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687012983-657
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013000-658
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013015-659
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013030-660
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013046-661
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013062-662
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013077-663
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013088-664
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013104-665
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013119-666
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013135-667
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013150-668
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013165-669
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013180-670
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013196-671
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013211-672
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013225-673
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013241-674
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013257-675
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013275-676
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013288-677
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013302-678
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013318-679
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013334-680
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013349-681
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013363-682
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013380-683
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013394-684
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013409-685
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013425-686
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013439-687
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013452-688
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013469-689
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013485-690
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013501-691
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013516-692
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013532-693
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013546-694
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013563-695
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013577-696
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013594-697
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013608-698
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013624-699
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013639-700
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013652-701
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013668-702
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013683-703
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013699-704
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013715-705
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013730-706
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013747-707
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013763-708
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013779-709
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013790-710
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013805-711
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013820-712
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013836-713
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013852-714
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013867-715
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013882-716
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013897-717
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013916-718
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013929-719
+2017-08-02 22:16:53, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013946-720
+2017-08-02 22:16:53, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013963-721
+2017-08-02 22:16:53, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013977-722
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687013996-723
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014006-724
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014028-725
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014041-726
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014056-727
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014072-728
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014088-729
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014104-730
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014120-731
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014137-732
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014152-733
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014169-734
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014186-735
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014201-736
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014216-737
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014231-738
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014246-739
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014261-740
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014275-741
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014290-742
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014304-743
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014319-744
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014335-745
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014349-746
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014364-747
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014379-748
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014394-749
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014409-750
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014424-751
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014439-752
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014453-753
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014469-754
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014484-755
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014499-756
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014514-757
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014530-758
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014546-759
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014578-760
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014579-761
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014607-762
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014621-763
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014636-764
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014652-765
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014667-766
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014682-767
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014698-768
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014713-769
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014726-770
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014742-771
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014757-772
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014772-773
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014786-774
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014801-775
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014816-776
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014832-777
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014848-778
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014864-779
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014880-780
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014894-781
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014908-782
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014923-783
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014937-784
+2017-08-02 22:16:54, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014952-785
+2017-08-02 22:16:54, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014968-786
+2017-08-02 22:16:54, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014983-787
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687014998-788
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015013-789
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015029-790
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015042-791
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015057-792
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015072-793
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015087-794
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015102-795
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015117-796
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015132-797
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015147-798
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015162-799
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015178-800
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015192-801
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015207-802
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015221-803
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015236-804
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015251-805
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015266-806
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015281-807
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015295-808
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015311-809
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015325-810
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015340-811
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015354-812
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015369-813
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015385-814
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015400-815
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015415-816
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015430-817
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015446-818
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015459-819
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015474-820
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015488-821
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015503-822
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015519-823
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015534-824
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015549-825
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015563-826
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015579-827
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015594-828
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015608-829
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015621-830
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015636-831
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015651-832
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015666-833
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015681-834
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015697-835
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015713-836
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015726-837
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015740-838
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015754-839
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015769-840
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015784-841
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015797-842
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015813-843
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015828-844
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015842-845
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015857-846
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015871-847
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015886-848
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015901-849
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015917-850
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015932-851
+2017-08-02 22:16:55, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015947-852
+2017-08-02 22:16:55, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015961-853
+2017-08-02 22:16:55, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015975-854
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687015989-855
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016003-856
+2017-08-02 22:16:56, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016020-857
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016035-858
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016051-859
+2017-08-02 22:16:56, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016066-860
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016081-861
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016096-862
+2017-08-02 22:16:56, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016109-863
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016124-864
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016138-865
+2017-08-02 22:16:56, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016154-866
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016169-867
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016184-868
+2017-08-02 22:16:56, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016199-869
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016214-870
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016230-871
+2017-08-02 22:16:56, 4, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016243-872
+2017-08-02 22:16:56, 5, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016258-873
+2017-08-02 22:16:56, 6, 172.16.16.14, 2, 1, GET, /socket.io/?EIO=3&transport=polling&t=1501687016272-874
+2017-08-02 22:17:25, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:17:32, 0, 127.0.0.1, 2, 0, GET, /
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-02 22:18:15, 1, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815d99120f015da386a15e0869
+2017-08-02 22:19:07, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 22:40:09, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:40:29, -1, , 3, 1, , Gossamer service stopped
+2017-08-02 22:40:35, -1, , 3, 0, , Gossamer service started
+2017-08-02 22:40:38, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 09:02:42, -1, , 3, 0, , Gossamer service started
+2017-08-03 09:02:45, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 09:04:43, -1, , 3, 0, , Gossamer service started
+2017-08-03 09:04:44, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 09:08:03, -1, , 3, 0, , Gossamer service started
+2017-08-03 09:08:06, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 10:02:26, -1, , 3, 0, , Gossamer service started
+2017-08-03 10:02:48, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 10:03:03, -1, , 3, 0, , Gossamer service started
+Error -2147467259 (&H80004005) ERROR: column "tanggalpanggil" does not exist;
+No query has been executed with that handle
+2017-08-03 10:03:34, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815da3acf0015da60d03ad0143
+2017-08-03 10:04:37, 0, 127.0.0.1, 2, 1, GET, /cetak-antrian?cetak=1&norec=ff8081815da3acf0015da60dfa430145
+2017-08-03 10:07:58, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 11:05:13, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:06:35, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-03 11:06:35, 0, 127.0.0.1, 2, 0, GET, /spider.jpg
+2017-08-03 11:06:35, 0, 127.0.0.1, 2, 0, GET, /favicon.ico
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-03 11:13:50, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da64d58d20022
+2017-08-03 11:14:04, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 11:14:57, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:15:48, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:15:52, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 11:16:00, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:16:03, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 11:17:35, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:17:39, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 11:17:53, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:17:57, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 11:18:18, -1, , 3, 0, , Gossamer service started
+2017-08-03 11:18:25, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da65189af002e
+2017-08-03 11:26:33, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da658fcaf0030
+2017-08-03 15:17:44, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:17:49, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:18:17, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:24:08, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:24:11, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 15:24:44, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:25:06, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:25:55, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 15:25:56, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:26:02, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 15:29:19, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:29:26, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 15:29:29, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:29:39, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 15:29:56, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:30:04, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:30:06, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 15:30:14, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:31:04, -1, , 3, 0, , Gossamer service started
+2017-08-03 15:31:24, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 17:10:19, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:10:50, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:10:58, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 17:12:33, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:12:36, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 17:12:57, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:13:02, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 17:13:26, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:13:29, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 17:14:18, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:14:22, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 17:45:48, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:47:13, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:47:55, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:48:16, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:48:50, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:49:41, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:51:11, -1, , 3, 0, , Gossamer service started
+2017-08-03 17:51:24, -1, , 3, 0, , Gossamer service started
+2017-08-03 22:35:55, -1, , 3, 0, , Gossamer service started
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-03 22:37:04, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da658fcaf0030
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-03 22:37:47, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da658fcaf0030
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-03 22:38:23, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da658fcaf0030
+2017-08-03 22:39:59, -1, , 3, 1, , Gossamer service stopped
+2017-08-03 22:40:02, -1, , 3, 0, , Gossamer service started
+2017-08-03 22:40:04, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da658fcaf0030
+2017-08-03 22:47:04, -1, , 3, 0, , Gossamer service started
+2017-08-03 22:47:14, -1, , 3, 0, , Gossamer service started
+2017-08-03 22:49:58, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=ff8081815da66f5a015da8caa9f60132
+2017-08-03 22:50:17, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=ff8081815da66f5a015da8caf21a0133
+2017-08-03 23:47:27, -1, , 3, 0, , Gossamer service started
+2017-08-03 23:47:35, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-03 23:48:22, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-03 23:48:46, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-03 23:49:04, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-03 23:49:22, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing
+2017-08-03 23:49:25, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-03 23:49:32, -1, , 3, 0, , Gossamer service started
+2017-08-03 23:49:35, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-03 23:49:52, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-04 10:03:00, -1, , 3, 0, , Gossamer service started
+2017-08-04 10:03:45, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-04 10:03:54, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-04 10:04:13, -1, , 3, 0, , Gossamer service started
+2017-08-04 10:04:15, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir/cetak-billing=1&noregistrasi=1708000494
+2017-08-04 10:04:24, 0, 127.0.0.1, 2, 0, GET, /printvb/kasir
+Error 482 (&H000001E2) Printer error
+2017-08-04 10:05:18, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835da39182015da658fcaf0030
+2017-08-04 10:06:20, -1, , 3, 0, , Gossamer service started
+2017-08-04 10:06:23, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000494
+2017-08-04 10:09:01, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000494
+2017-08-04 10:09:36, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000494
+2017-08-04 10:29:25, -1, , 3, 0, , Gossamer service started
+2017-08-04 10:30:16, -1, , 3, 0, , Gossamer service started
+2017-08-04 10:33:43, -1, , 3, 0, , Gossamer service started
+Error 424 (&H000001A8) Object required
+2017-08-04 10:33:47, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000494
+2017-08-04 10:35:03, -1, , 3, 0, , Gossamer service started
+Error 424 (&H000001A8) Object required
+2017-08-04 10:35:06, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000494
+2017-08-04 10:37:32, -1, , 3, 0, , Gossamer service started
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-04 10:39:42, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835d9c46eb015da329e0c00020
+Error 3021 (&H00000BCD) Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.
+2017-08-04 10:45:50, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835d9c46eb015da329e0c00020
+2017-08-04 11:07:55, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:32:28, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:34:18, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:34:20, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=true
+2017-08-04 11:34:42, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=true
+2017-08-04 11:37:27, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:37:34, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=true
+2017-08-04 11:37:51, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=true
+2017-08-04 11:38:01, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=false
+2017-08-04 11:39:54, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:40:10, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:40:13, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=false
+2017-08-04 11:41:35, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:42:08, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:42:36, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:42:38, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=false
+2017-08-04 11:43:37, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:44:02, -1, , 3, 0, , Gossamer service started
+2017-08-04 11:44:04, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1707000053&view=false
+2017-08-04 13:30:51, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:31:21, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:31:37, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:31:39, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:31:54, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:32:32, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:32:45, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:33:32, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:33:33, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:36:26, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:36:38, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:37:25, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:38:18, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:38:20, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:39:19, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:40:12, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:41:20, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:43:21, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:46:47, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:46:48, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:48:41, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:48:42, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:53:38, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:53:51, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:55:34, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:55:36, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1707000053&view=false
+2017-08-04 13:58:10, -1, , 3, 0, , Gossamer service started
+2017-08-04 13:59:24, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000494&view=false
+2017-08-04 14:00:27, -1, , 3, 0, , Gossamer service started
+2017-08-04 14:00:54, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000446&view=false
+2017-08-04 14:03:07, -1, , 3, 0, , Gossamer service started
+2017-08-04 14:03:10, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000446&view=false
+2017-08-04 15:59:23, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:10:22, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:11:05, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:11:11, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000031&view=false
+2017-08-04 16:17:14, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:17:23, -1, , 3, 1, , Gossamer service stopped
+2017-08-04 16:17:25, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:17:43, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708000031&view=false
+2017-08-04 16:21:06, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000031&view=false
+2017-08-04 16:22:33, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:22:35, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000031&view=false
+2017-08-04 16:24:18, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000031&view=false
+2017-08-04 16:24:49, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000031&view=false
+2017-08-04 16:25:50, -1, , 3, 0, , Gossamer service started
+2017-08-04 16:25:56, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000031&view=false
+2017-08-04 16:26:22, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansi=1&noregistrasi=1708000031&view=false
+2017-08-04 16:26:35, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 12:51:26, -1, , 3, 0, , Gossamer service started
+2017-08-08 12:52:08, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 12:52:30, -1, , 3, 0, , Gossamer service started
+2017-08-08 12:52:32, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 12:56:33, -1, , 3, 0, , Gossamer service started
+2017-08-08 12:57:58, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:01:06, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:01:11, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 13:02:48, -1, , 3, 0, , Gossamer service started
+2017-08-08 13:03:03, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:03:59, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 13:04:01, -1, , 3, 0, , Gossamer service started
+2017-08-08 13:04:17, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-08 13:04:48, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 13:05:33, -1, , 3, 0, , Gossamer service started
+2017-08-08 13:05:59, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:06:54, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:07:08, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1
+2017-08-08 13:07:26, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:07:30, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 13:10:36, -1, , 3, 0, , Gossamer service started
+2017-08-08 13:10:57, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:12:30, -1, , 3, 0, , Gossamer service started
+2017-08-08 13:12:36, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 13:14:51, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-08 14:24:40, -1, , 3, 0, , Gossamer service started
+2017-08-08 15:51:54, -1, , 3, 0, , Gossamer service started
+2017-08-08 15:51:59, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 15:53:37, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 15:55:25, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 16:17:08, -1, , 3, 0, , Gossamer service started
+2017-08-08 16:17:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 16:22:29, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 16:34:09, -1, , 3, 0, , Gossamer service started
+2017-08-08 16:34:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 16:41:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 16:42:52, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 16:45:44, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 16:54:39, -1, , 3, 0, , Gossamer service started
+2017-08-08 16:54:45, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 17:10:08, -1, , 3, 0, , Gossamer service started
+2017-08-08 17:10:12, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 17:12:22, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 17:15:34, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 17:17:00, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=false
+2017-08-08 17:44:52, -1, , 3, 0, , Gossamer service started
+2017-08-08 17:45:09, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 17:47:10, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 17:47:44, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 17:48:52, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 17:50:28, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-08 20:32:31, -1, , 3, 0, , Gossamer service started
+2017-08-08 20:32:48, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansiv2=1&noregistrasi=1708000446&view=false
+2017-08-08 20:35:31, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansiv2=1&noregistrasi=1708000446&view=false
+2017-08-08 20:39:27, -1, , 3, 1, , Gossamer service stopped
+2017-08-08 20:39:30, -1, , 3, 0, , Gossamer service started
+2017-08-08 20:39:39, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-kwitansiv2=1&noregistrasi=1708000446&view=false
+2017-08-08 22:47:56, -1, , 3, 0, , Gossamer service started
+2017-08-08 22:47:58, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 09:45:52, -1, , 3, 0, , Gossamer service started
+2017-08-09 10:15:14, -1, , 3, 0, , Gossamer service started
+2017-08-09 11:15:09, -1, , 3, 0, , Gossamer service started
+2017-08-09 11:15:25, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-09 11:21:43, -1, , 3, 0, , Gossamer service started
+2017-08-09 11:21:47, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-09 11:25:58, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-09 12:09:00, -1, , 3, 0, , Gossamer service started
+2017-08-09 12:09:05, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-09 12:22:17, -1, , 3, 0, , Gossamer service started
+2017-08-09 12:22:22, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true
+2017-08-09 12:31:59, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 12:42:37, -1, , 3, 0, , Gossamer service started
+2017-08-09 12:43:19, -1, , 3, 0, , Gossamer service started
+2017-08-09 12:44:59, -1, , 3, 0, , Gossamer service started
+2017-08-09 12:45:05, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=3
+2017-08-09 12:46:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=1
+2017-08-09 12:46:37, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 13:19:05, -1, , 3, 0, , Gossamer service started
+2017-08-09 13:19:21, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=2
+2017-08-09 13:26:11, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 13:29:11, -1, , 3, 0, , Gossamer service started
+2017-08-09 13:30:40, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=2
+2017-08-09 13:31:02, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=2
+2017-08-09 13:39:05, -1, , 3, 0, , Gossamer service started
+2017-08-09 13:39:20, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=5
+2017-08-09 13:51:15, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=2
+2017-08-09 13:54:54, -1, , 3, 0, , Gossamer service started
+2017-08-09 13:55:00, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=2
+2017-08-09 13:58:12, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090e25acfe591015acfee53660016&view=true&qty=2
+2017-08-09 13:58:56, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 15:57:03, -1, , 3, 0, , Gossamer service started
+2017-08-09 15:57:06, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:00:21, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:01:11, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:02:56, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:03:25, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:04:44, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:04:47, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:05:36, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 16:10:32, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:10:35, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:11:49, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:32:50, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:33:01, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 16:33:08, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:33:31, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 16:33:32, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:34:02, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 16:34:23, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:34:51, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:35:09, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:36:42, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 16:36:46, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:36:56, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=40288c835ba4c322015ba816f5d0002c&view=true
+2017-08-09 16:37:41, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=ff8081815d7e8f33015d7e994e38000c&view=true
+2017-08-09 16:41:31, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=ff8081815d7e8f33015d7e994e38000c&view=true
+2017-08-09 16:45:24, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:51:21, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:51:41, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:53:36, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:54:29, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:54:39, -1, , 3, 0, , Gossamer service started
+2017-08-09 16:54:48, -1, , 3, 0, , Gossamer service started
+2017-08-09 17:45:48, -1, , 3, 0, , Gossamer service started
+2017-08-09 18:42:07, -1, , 3, 0, , Gossamer service started
+2017-08-09 18:42:29, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=ff8081815d7e8f33015d7e994e38000c&view=true
+2017-08-09 18:43:12, -1, , 3, 1, , Gossamer service stopped
+2017-08-09 23:49:01, -1, , 3, 0, , Gossamer service started
+2017-08-10 09:39:21, -1, , 3, 0, , Gossamer service started
+2017-08-10 09:39:51, -1, , 3, 0, , Gossamer service started
+2017-08-10 11:12:57, -1, , 3, 0, , Gossamer service started
+2017-08-10 11:15:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-kartupasien=1&id=13883&view=true
+2017-08-10 11:19:19, -1, , 3, 0, , Gossamer service started
+2017-08-10 11:19:26, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-kartupasien=1&id=13883&view=true
+2017-08-10 11:22:29, -1, , 3, 0, , Gossamer service started
+2017-08-10 11:23:07, -1, , 3, 0, , Gossamer service started
+2017-08-10 11:23:10, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-kartupasien=1&id=13883&view=true
+2017-08-10 11:47:29, -1, , 3, 0, , Gossamer service started
+Error 9 (&H00000009) Subscript out of range
+2017-08-10 11:47:44, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-10 11:49:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-10 11:50:18, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-10 11:51:35, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true&qty=2
+2017-08-10 18:17:14, -1, , 3, 0, , Gossamer service started
+2017-08-10 18:33:29, -1, , 3, 0, , Gossamer service started
+2017-08-10 18:33:42, -1, , 3, 1, , Gossamer service stopped
+2017-08-10 18:34:47, -1, , 3, 0, , Gossamer service started
+2017-08-10 20:52:59, -1, , 3, 0, , Gossamer service started
+2017-08-10 20:53:05, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=true
+2017-08-10 20:56:11, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=true
+2017-08-10 20:57:17, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=true
+2017-08-10 20:58:22, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=true
+2017-08-10 20:58:59, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=true
+2017-08-10 21:03:01, -1, , 3, 1, , Gossamer service stopped
+2017-08-10 21:03:11, -1, , 3, 0, , Gossamer service started
+2017-08-10 21:03:15, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=true
+2017-08-10 21:03:40, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=false
+2017-08-10 21:05:03, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=false
+2017-08-10 21:07:51, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=false
+2017-08-10 21:08:24, -1, , 3, 1, , Gossamer service stopped
+2017-08-10 21:08:26, -1, , 3, 0, , Gossamer service started
+2017-08-10 21:08:46, -1, , 3, 1, , Gossamer service stopped
+2017-08-10 21:12:43, -1, , 3, 0, , Gossamer service started
+2017-08-10 21:12:47, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=false
+2017-08-10 21:14:46, -1, , 3, 0, , Gossamer service started
+2017-08-10 21:14:50, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=2105601834&view=false
+2017-08-11 11:38:39, -1, , 3, 0, , Gossamer service started
+2017-08-11 11:38:51, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015dcf9686610007
+2017-08-11 11:39:30, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015dcf9721c80008
+2017-08-14 10:40:20, -1, , 3, 0, , Gossamer service started
+2017-08-14 10:41:00, -1, , 3, 0, , Gossamer service started
+2017-08-14 11:47:46, -1, , 3, 0, , Gossamer service started
+2017-08-14 13:45:24, -1, , 3, 0, , Gossamer service started
+2017-08-14 13:46:28, -1, , 3, 0, , Gossamer service started
+2017-08-14 13:47:39, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf7f89330054
+2017-08-14 13:48:36, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf806ab70055
+2017-08-14 13:48:44, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf80881f0056
+2017-08-14 13:51:54, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf836f000058
+Error 482 (&H000001E2) Printer error
+2017-08-14 13:52:02, 1, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf838d9c0059
+2017-08-14 13:52:20, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf83d441005a
+Error 482 (&H000001E2) Printer error
+2017-08-14 13:52:27, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf83f144005b
+2017-08-14 13:53:11, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf849c22005c
+2017-08-14 13:53:20, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf84bf2d005d
+Error 482 (&H000001E2) Printer error
+2017-08-14 13:54:50, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf862008005f
+2017-08-14 13:55:15, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=40288c835dcf7114015ddf867f580060
+2017-08-14 14:14:44, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=false
+2017-08-14 14:16:21, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=false
+2017-08-14 14:20:01, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=false
+2017-08-14 15:08:49, -1, , 3, 0, , Gossamer service started
+2017-08-14 15:20:51, -1, , 3, 0, , Gossamer service started
+2017-08-14 15:21:03, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 15:23:49, -1, , 3, 0, , Gossamer service started
+2017-08-14 15:23:52, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 18:28:01, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:45:51, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:45:55, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 18:46:51, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:46:55, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 18:49:47, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:49:50, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 18:51:20, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:51:23, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 18:57:19, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:57:23, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 18:59:44, -1, , 3, 0, , Gossamer service started
+2017-08-14 18:59:51, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 19:02:32, -1, , 3, 0, , Gossamer service started
+2017-08-14 19:02:36, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 19:03:23, -1, , 3, 0, , Gossamer service started
+2017-08-14 19:03:27, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=40288c835dcf7114015ddf4a591b0047&view=true
+2017-08-14 19:46:47, -1, , 3, 0, , Gossamer service started
+2017-08-14 19:48:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=40288c835de0bc99015de0c9664f0004&view=false
+2017-08-14 19:52:11, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=undefined&view=false
+2017-08-14 20:08:07, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=undefined&view=false
+2017-08-14 20:16:43, -1, , 3, 0, , Gossamer service started
+2017-08-14 20:17:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=40288c835de0bc99015de0c9664f0004&view=false
+2017-08-14 20:21:31, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1705000107&view=false
+2017-08-14 20:21:53, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1705000107&view=false
+2017-08-14 20:22:18, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=1705000107&view=false
+2017-08-14 20:56:30, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1705000248&view=false
+2017-08-14 20:56:54, -1, , 3, 0, , Gossamer service started
+2017-08-14 20:56:58, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1705000248&view=false
+2017-08-14 21:18:58, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1705000248&view=false
+2017-08-14 21:59:35, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=40288c835d88fa7c015d98b2e29b00b2&view=false
+2017-08-14 22:10:07, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000085&view=false
+2017-08-14 22:13:52, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000086&view=false
+2017-08-14 22:14:18, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000086&view=false
+2017-08-14 22:14:28, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=1708000086&view=false
+2017-08-14 22:19:14, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=1708000086&view=false
+2017-08-14 22:41:27, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=1708000089&view=false&qty=2
+2017-08-14 22:42:34, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=1708000089&view=false&qty=2
+2017-08-14 22:59:45, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01600447&view=false
+2017-08-14 23:01:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01600447&view=false
+2017-08-14 23:12:05, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000093&view=false
+2017-08-14 23:35:47, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01601018&view=false
+2017-08-14 23:39:52, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01601018&view=false
+2017-08-14 23:42:49, -1, , 3, 0, , Gossamer service started
+2017-08-14 23:42:53, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01601018&view=false
+2017-08-14 23:48:27, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000094&view=false
+2017-08-15 09:35:16, -1, , 3, 0, , Gossamer service started
+2017-08-15 09:36:23, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-15 09:38:12, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-15 09:43:34, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-15 13:42:56, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000097&view=false
+2017-08-15 13:52:34, -1, , 3, 0, , Gossamer service started
+2017-08-15 13:52:58, -1, , 3, 0, , Gossamer service started
+2017-08-15 13:53:00, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000097&view=false
+2017-08-15 13:53:03, 0, 127.0.0.1, 2, 0, GET, /favicon.ico
+Error 94 (&H0000005E) Invalid use of Null
+2017-08-15 13:53:11, 1, 172.16.16.79, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 13:54:07, 1, 172.16.16.79, 2, 0, GET, /favicon.ico
+2017-08-15 14:02:47, -1, , 3, 0, , Gossamer service started
+2017-08-15 14:03:44, -1, , 3, 0, , Gossamer service started
+2017-08-15 14:05:23, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 14:46:55, -1, , 3, 0, , Gossamer service started
+2017-08-15 14:47:00, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 14:47:41, -1, , 3, 0, , Gossamer service started
+Error 3265 (&H00000CC1) Item cannot be found in the collection corresponding to the requested name or ordinal.
+2017-08-15 14:47:45, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 14:49:29, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 15:40:44, -1, , 3, 0, , Gossamer service started
+2017-08-15 15:48:47, -1, , 3, 0, , Gossamer service started
+Error 3265 (&H00000CC1) Item cannot be found in the collection corresponding to the requested name or ordinal.
+2017-08-15 15:48:51, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 15:49:39, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 16:13:42, -1, , 3, 0, , Gossamer service started
+2017-08-15 16:13:51, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 16:15:12, -1, , 3, 0, , Gossamer service started
+2017-08-15 16:15:17, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 16:39:01, -1, , 3, 0, , Gossamer service started
+Error 3704 (&H00000E78) Operation is not allowed when the object is closed.
+2017-08-15 16:39:06, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 16:44:19, -1, , 3, 0, , Gossamer service started
+2017-08-15 16:44:23, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 16:47:29, 0, 127.0.0.1, 2, 1, GET, /printvb/kasir?cetak-billing=1&noregistrasi=1708001846&view=true
+2017-08-15 17:04:11, -1, , 3, 0, , Gossamer service started
+2017-08-15 17:04:33, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000112&view=false
+2017-08-15 17:05:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000112&view=false
+2017-08-15 17:06:18, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000112&view=false
+2017-08-15 17:07:01, -1, , 3, 1, , Gossamer service stopped
+2017-08-15 17:07:03, -1, , 3, 0, , Gossamer service started
+2017-08-15 17:07:07, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000112&view=false
+2017-08-15 17:08:36, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000112&view=false
+2017-08-15 17:08:54, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01602554&view=false
+2017-08-15 17:09:04, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktilayanan=1&norec=1708000112&view=false
+2017-08-15 17:09:30, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=1708000112&view=false&qty=1
+2017-08-15 17:14:16, -1, , 3, 0, , Gossamer service started
+2017-08-15 17:14:18, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000112&view=false
+2017-08-15 17:14:42, 1, 127.0.0.1, 2, 0, GET, /printvb/Pendaftara
+2017-08-15 17:14:51, 1, 127.0.0.1, 2, 0, GET, /printvb/
+2017-08-15 17:14:57, 1, 127.0.0.1, 2, 0, GET, /printvb
+2017-08-15 17:15:21, 1, 127.0.0.1, 2, 0, GET, /
+2017-08-15 17:15:33, 1, 127.0.0.1, 2, 0, GET, /printvb
+2017-08-15 17:18:03, -1, , 3, 0, , Gossamer service started
+2017-08-15 17:18:06, 0, 127.0.0.1, 2, 1, GET, /printvb/pendaftaran?cek-konek
+2017-08-15 17:18:50, 0, 127.0.0.1, 2, 1, GET, /printvb/pendaftaran?cek-konek
+2017-08-15 17:19:18, 0, 127.0.0.1, 2, 1, GET, /printvb/pendaftaran?cek-konek
+2017-08-15 17:20:35, 0, 127.0.0.1, 2, 1, GET, /printvb/pendaftaran?cek-konek=1
+2017-08-15 17:20:54, 0, 127.0.0.1, 2, 1, GET, /printvb/pendaftaran?cek-konek=1
+2017-08-15 17:21:08, 0, 127.0.0.1, 2, 1, GET, /printvb/pendaftaran?cek-konek=1
+Error 424 (&H000001A8) Object required
+2017-08-15 17:23:08, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+Error 424 (&H000001A8) Object required
+2017-08-15 17:27:26, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 17:28:00, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01602554&view=true
+2017-08-15 17:28:20, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=01602554&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 17:34:34, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 17:36:53, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000117&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 17:45:58, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+Error 424 (&H000001A8) Object required
+2017-08-15 17:47:58, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 17:48:28, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000117&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 17:48:57, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 17:50:02, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000117&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 17:50:57, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 17:50:57, 2, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000117&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 17:51:33, 2, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 17:52:43, 2, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000117&view=false
+2017-08-15 19:43:20, -1, , 3, 0, , Gossamer service started
+Error 9 (&H00000009) Subscript out of range
+2017-08-15 19:43:43, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-15 19:44:21, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-15 19:45:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true
+2017-08-15 19:46:05, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true&qty=2
+2017-08-15 19:59:46, -1, , 3, 0, , Gossamer service started
+2017-08-15 20:00:07, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true&qty=2
+2017-08-15 20:00:40, -1, , 3, 1, , Gossamer service stopped
+2017-08-15 20:08:10, -1, , 3, 0, , Gossamer service started
+2017-08-15 20:08:32, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-labelpasien=1&norec=2c9090ce5af40be8015af40eb1f80006&view=true&qty=2
+2017-08-15 20:10:29, -1, , 3, 1, , Gossamer service stopped
+2017-08-15 20:10:40, -1, , 3, 0, , Gossamer service started
+2017-08-15 20:35:29, -1, , 3, 0, , Gossamer service started
+2017-08-15 23:16:33, -1, , 3, 0, , Gossamer service started
+Error 424 (&H000001A8) Object required
+2017-08-15 23:17:27, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 23:17:33, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000117&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 23:19:36, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+Error 424 (&H000001A8) Object required
+2017-08-15 23:21:08, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+Error 424 (&H000001A8) Object required
+2017-08-15 23:23:04, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 23:23:04, 2, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000124&view=false
+Error 424 (&H000001A8) Object required
+2017-08-15 23:25:54, 2, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-15 23:25:54, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000124&view=false
+2017-08-15 23:27:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000124&view=false
+2017-08-15 23:32:09, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-15 23:36:56, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-15 23:37:31, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-15 23:42:07, -1, , 3, 0, , Gossamer service started
+2017-08-15 23:42:13, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-15 23:50:30, -1, , 3, 0, , Gossamer service started
+2017-08-15 23:50:33, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-15 23:51:51, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-15 23:58:00, -1, , 3, 0, , Gossamer service started
+2017-08-15 23:58:14, -1, , 3, 1, , Gossamer service stopped
+2017-08-15 23:58:16, -1, , 3, 0, , Gossamer service started
+2017-08-15 23:58:39, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-sep=1&norec=1708000087&view=true
+2017-08-16 00:02:49, -1, , 3, 0, , Gossamer service started
+2017-08-16 00:02:53, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&norec=013785&view=false
+Error 424 (&H000001A8) Object required
+2017-08-16 00:19:47, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-16 00:22:02, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000130&view=false
+Error 424 (&H000001A8) Object required
+2017-08-16 00:23:11, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-16 00:23:11, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000130&view=false
+Error 424 (&H000001A8) Object required
+2017-08-16 00:23:52, 1, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cek-konek=1
+2017-08-16 00:24:32, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-buktipendaftaran=1&norec=1708000130&view=false
+2017-08-16 00:25:46, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000130&view=false
+2017-08-16 00:29:40, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000131&view=false
+2017-08-16 00:31:01, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-tracer=1&norec=1708000132&view=false
+2017-08-16 10:30:16, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:11:03, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:11:41, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:12:06, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=O/1708/00018view=true
+2017-08-16 14:13:05, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=O/1708/00018view=true
+2017-08-16 14:13:24, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:13:27, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=O/1708/00018view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-16 14:15:17, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=O/1708/00018view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-16 14:15:33, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=O/1708/00018view=true
+2017-08-16 14:16:58, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:17:07, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=O/1708/00018&view=true
+2017-08-16 14:23:42, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:23:46, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 14:28:55, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:29:04, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 14:31:53, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:32:06, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 14:39:55, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 14:40:21, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 14:52:05, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:52:11, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 14:54:27, -1, , 3, 0, , Gossamer service started
+2017-08-16 14:54:31, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 15:50:13, -1, , 3, 0, , Gossamer service started
+2017-08-16 16:03:05, -1, , 3, 0, , Gossamer service started
+Error 9 (&H00000009) Subscript out of range
+2017-08-16 16:03:10, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true
+2017-08-16 16:03:48, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true&user=Gregorius
+2017-08-16 16:46:45, -1, , 3, 0, , Gossamer service started
+2017-08-16 16:46:48, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true&user=Gregorius
+2017-08-16 16:53:57, -1, , 3, 0, , Gossamer service started
+2017-08-16 16:53:59, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true&user=Gregorius
+2017-08-16 16:55:56, -1, , 3, 0, , Gossamer service started
+2017-08-16 16:56:11, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true&user=Gregorius
+2017-08-16 16:58:43, -1, , 3, 0, , Gossamer service started
+2017-08-16 16:58:46, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-strukresep=1&nores=f9b07b20-81d9-11e7-8420-d5194da3&view=true&user=Gregorius
+2017-08-16 19:21:35, -1, , 3, 0, , Gossamer service started
+2017-08-16 19:37:26, -1, , 3, 0, , Gossamer service started
+Error 9 (&H00000009) Subscript out of range
+2017-08-16 19:38:03, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-summarylist=1&nores=01602554&view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-16 19:38:11, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-summarylist=1&nores=01602554&view=true
+Error 9 (&H00000009) Subscript out of range
+2017-08-16 19:38:24, 0, 127.0.0.1, 2, 1, GET, /printvb/farmasiApotik?cetak-summarylist=1&nores=01602554&view=true
+2017-08-16 19:38:39, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-summarylist=1&nores=01602554&view=true
+2017-08-17 01:34:43, -1, , 3, 0, , Gossamer service started
+2017-08-17 01:34:49, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 01:36:00, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 01:39:14, -1, , 3, 0, , Gossamer service started
+2017-08-17 01:39:20, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 01:41:36, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:33:28, -1, , 3, 0, , Gossamer service started
+2017-08-17 17:34:10, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:42:36, -1, , 3, 0, , Gossamer service started
+2017-08-17 17:42:45, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:43:27, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:46:09, -1, , 3, 0, , Gossamer service started
+2017-08-17 17:46:14, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:46:44, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:47:52, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 17:55:46, -1, , 3, 0, , Gossamer service started
+2017-08-17 17:55:48, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:04:53, -1, , 3, 0, , Gossamer service started
+2017-08-17 18:04:59, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:05:17, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:06:28, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:06:58, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:07:26, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:07:42, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:08:09, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:11:11, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:11:42, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:12:34, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:13:15, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:13:48, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:14:14, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:14:45, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:16:15, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:33:41, -1, , 3, 0, , Gossamer service started
+2017-08-17 18:33:46, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:39:31, -1, , 3, 0, , Gossamer service started
+2017-08-17 18:39:35, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=true
+2017-08-17 18:40:54, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarmasukkeluar=1&nores=1706000352&view=false
+2017-08-17 20:29:44, -1, , 3, 0, , Gossamer service started
+2017-08-17 20:29:59, -1, , 3, 0, , Gossamer service started
+2017-08-17 20:30:01, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=false
+2017-08-17 20:30:25, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-17 20:57:18, -1, , 3, 0, , Gossamer service started
+2017-08-17 20:57:23, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-17 20:58:21, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-17 20:59:07, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-17 21:00:14, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 09:06:34, -1, , 3, 0, , Gossamer service started
+2017-08-18 09:07:46, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 09:27:16, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 10:15:34, -1, , 3, 0, , Gossamer service started
+2017-08-18 10:15:38, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 10:18:13, -1, , 3, 0, , Gossamer service started
+2017-08-18 10:18:17, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 10:31:47, -1, , 3, 0, , Gossamer service started
+2017-08-18 10:31:51, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 10:33:46, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 10:36:22, -1, , 3, 0, , Gossamer service started
+2017-08-18 10:36:25, 0, 127.0.0.1, 2, 1, GET, /printvb/Pendaftaran?cetak-lembarpersetujuan=1&nores=1706000352&view=true
+2017-08-18 16:58:00, -1, , 3, 0, , Gossamer service started
+2017-08-18 17:03:39, -1, , 3, 0, , Gossamer service started
+Error 3265 (&H00000CC1) Item cannot be found in the collection corresponding to the requested name or ordinal.
+2017-08-18 17:06:41, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=ff8081815def1440015df4cf259a07f7
+2017-08-18 17:09:37, -1, , 3, 1, , Gossamer service stopped
+2017-08-18 17:16:04, -1, , 3, 0, , Gossamer service started
+2017-08-18 17:16:05, 0, 127.0.0.1, 2, 1, GET, /printvb/cetak-antrian?cetak=1&norec=ff8081815def1440015df4d7c13f07f8
+2017-08-24 10.59.53, -1, , 3, 0, , Gossamer service started
+2017-08-24 11.14.32, -1, , 3, 0, , Gossamer service started
+2017-08-24 21.42.10, -1, , 3, 0, , Gossamer service started
+2017-08-24 21.42.46, 0, 127.0.0.1, 2, 0, GET, /
+2017-08-24 21.42.46, 0, 127.0.0.1, 2, 0, GET, /spider.jpg
+2017-08-24 21.42.46, 0, 127.0.0.1, 2, 0, GET, /favicon.ico
+2017-08-24 21.46.27, -1, , 3, 0, , Gossamer service started
+2017-08-24 21.46.30, 0, 127.0.0.1, 2, 0, GET, /
